@@ -5,11 +5,6 @@
     font-family: 'Courier New', Courier, monospace
 }
 
-body{
-        font-family:Arial, Helvetica, sans-serif ;
-        color: rgb(170, 184, 197)
-}
-
 header{
     display: flex;
     justify-content: space-between;
@@ -73,30 +68,30 @@ text-decoration: none;
     margin: 20px
 }
 
-.section-container {
+.Admin1 {
     display: flex;
-    width: 100%;
-    height: 100vh;
-}
-
-.step {
-    display: flex;
-    padding: 40px 30px;
-    color: #333;
     text-align: center;
-    flex: 1;
-
-    flex-direction: column;
-    justify-content: center
+    background-image: url(Images/wp9049759.jpg);
+    height: 650px;
+    width: auto;
 }
 
-.step i {
-    font-size: 50px;
-    margin: 20px;
+#US1 h3{
+    color: #2f3adb;
+    text-align: center;
+    padding-top: 15%;
 }
 
-.step h3{
-    margin-bottom: 20px;
-    font-size: 22px;
+#US1 i{
+    padding:35%;
+    color: #4f58d8c0;
 }
 
+#US1 p{
+    padding: 38px;
+    color: #2f3adb;
+}
+
+#US1 {
+    width: 25%;
+}
