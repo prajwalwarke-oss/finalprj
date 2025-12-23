@@ -65,33 +65,53 @@ text-decoration: none;
 .Clown1 p{
     color: rgba(109, 175, 236, 0.733);
     text-align: center;
-    margin: 20px
+    margin: 20px;
 }
 
 .Admin1 {
     display: flex;
     text-align: center;
     background-image: url(Images/wp9049759.jpg);
-    height: 650px;
+    height: 300px;
     width: auto;
 }
 
 #US1 h3{
     color: #2f3adb;
     text-align: center;
-    padding-top: 15%;
+    padding-top: 5%;
 }
 
 #US1 i{
-    padding:35%;
+    padding: 15%;
     color: #4f58d8c0;
 }
 
 #US1 p{
-    padding: 38px;
+    padding: 10px;
     color: #2f3adb;
 }
 
 #US1 {
     width: 25%;
+}
+
+.red {
+    color:rgb(59, 140, 231);
+}
+
+.jet {
+    color: #2f3adb;
+}
+
+.bet {
+    color:red;
+}
+
+.wet {
+    color:white;
+}
+
+.b{
+    font-style: oblique;
 }
