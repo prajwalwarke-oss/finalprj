@@ -2,7 +2,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Courier New', Courier, monospace
 }
 
 header{
@@ -96,22 +95,47 @@ text-decoration: none;
     width: 25%;
 }
 
-.red {
-    color:rgb(59, 140, 231);
+.I{
+    color: #2f88db;
 }
 
-.jet {
+.II{
     color: #2f3adb;
 }
 
-.bet {
-    color:red;
+.III{
+    color: red;
 }
 
-.wet {
-    color:white;
+.M{
+    color: #3b3c4b;
 }
 
-.b{
+.Admin2{
+    position: relative;
+    background-image: url(Images/iiim.png);
+    height: 500px;
+    width: auto;
+}
+
+.Admin2 p{
+    font-weight: lighter;
+    padding: 3%;
+    font-family:Helvetica;
     font-style: oblique;
+    text-align: center;
+}
+
+.Admin2 h1{
+    font-family:Helvetica;
+    font-style: oblique;
+    text-align: center;
+}
+
+#mi{
+    display: flex;
+    position: relative;
+    text-align: center;
+    height: 60px;
+    width: auto;
 }
