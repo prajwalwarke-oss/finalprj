@@ -4,6 +4,9 @@
     box-sizing: border-box;
 }
 
+body{
+    margin: 0;
+}
 header{
     display: flex;
     justify-content: space-between;
@@ -132,10 +135,19 @@ text-decoration: none;
     text-align: center;
 }
 
-#mi{
+
+ #mi{
     display: flex;
-    position: relative;
     text-align: center;
-    height: 60px;
-    width: auto;
+    width: 100%;
+    margin-top: 300px;   /* moves the whole section down */
+    gap: 20px;
+}
+
+#admin3 {
+    width: 100%;
+    padding-top: 75px;
+    padding-bottom: 75px;
+    text-align: center;
+
 }
