@@ -158,6 +158,64 @@ text-decoration: none;
     border: 2px black;
 }
 
-.o img{
-    border-radius: 50%;
+.Oliv {
+clip-path: circle(50.2% at 50% 50%);
+height: 80px;
 }
+
+.D {
+    clip-path: circle(50.2% at 50% 50%);
+    height: 80px;
+}
+
+.E {
+    clip-path: circle(50.2% at 50% 50%);
+    height: 80px;
+}
+
+.owner{
+    display: flex;
+    position: relative;
+    height: 500px;
+    text-align: center;
+}
+
+.O{
+    margin: 20px;
+    background-color: bisque;
+    padding: 40px;
+    width: 33%;
+    border-radius: 10px;
+} 
+
+.O h4{
+    font-family: sans-serif;
+    padding: 30px;
+}
+
+.De{
+    margin: 20px;
+    background-color: bisque;
+    padding: 40px;
+    width: 33%;
+    border-radius: 10px;
+}
+
+.De h4{
+    font-family: sans-serif;
+    padding: 30px;
+}
+
+.eng {
+    margin: 20px;
+    background-color: bisque;
+    padding: 40px;
+    width: 33%;
+    border-radius: 10px;
+}
+
+.eng h4{
+    font-family: sans-serif;
+    padding: 30px;
+}
+
