@@ -225,9 +225,18 @@ height: 80px;
     margin: 0px;
 }
 
-#left-section {
-    width: 67%;
-    display: flex;
-    margin-top: 200px;
+#left-section img{
+    display: inline-block;
+    margin-top: 250px;
+    width: 80%;
 
+}
+
+#right-section {
+    display: inline-block;
+    height: ;
+    width: 30%;
+    margin: 0px;
+    background-image: url(Images/mar.png);
+    background-position: left;
 }
