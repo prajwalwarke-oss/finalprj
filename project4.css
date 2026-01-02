@@ -263,4 +263,16 @@ height: 80px;
     display: block;
 }
 
+.Admin4 h1{
+    font-family: monospace;
+    text-decoration: underline;
+}
 
+.Admin4 input{
+    margin: 13px;
+    text-align: center;
+}
+
+.Admin4 p{
+    opacity: 80%;
+}
