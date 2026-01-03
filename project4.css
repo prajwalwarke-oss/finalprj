@@ -286,11 +286,10 @@ height: 80px;
     position: relative;
     height: 200px;
     width: 100%;
-    background-color: #196ae2a9;
+    background-color: #d6e2f5a9;
     text-align: center;
     
 }
-
 
 #z1{
     width: 25%;
@@ -303,4 +302,29 @@ height: 80px;
 }
 #z4{
     width: 25%;
+}
+
+
+/*     SECTION-6    */
+
+.Admin6 {
+    display: block;
+    position: relative;
+    justify-content: center;
+    height: 400px;
+    width: 100%;
+}
+
+.vi {
+    margin-top:15px ;
+    text-align: center;
+}
+
+.vi H1,H4,h1 {
+    opacity: 80%;
+}
+
+video {
+    height: auto;
+    width: 100%;
 }
