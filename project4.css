@@ -344,7 +344,7 @@ body {
 /* MAIN CONTAINER */
 .contact-section {
     max-width: 1200px;
-    margin: 80px auto;
+    margin: 180px auto;
     display: flex;
     gap: 80px;
 }
@@ -352,12 +352,13 @@ body {
 /* LEFT & RIGHT COLUMNS */
 .contact-info,
 .contact-form {
+    margin-top: 150px;
     width: 50%;
 }
 
 /* SMALL GREEN TEXT */
 .small-title {
-    color: #9acd32;
+    color: #3287cd;
     font-style: italic;
     font-size: 14px;
 }
@@ -433,7 +434,7 @@ body {
 
 /* SMALL GREEN TEXT */
 .small-title {
-    color: #9acd32;
+    color: #3287cd;
     font-style: italic;
     font-size: 14px;
 }
@@ -484,7 +485,7 @@ form textarea {
 
 /* BUTTON */
 form button {
-    background-color: #9acd32;
+    background-color: #328fcd;
     color: white;
     border: none;
     padding: 14px 30px;
@@ -494,5 +495,5 @@ form button {
 }
 
 form button:hover {
-    background-color: #85b72c;
+    background-color: #412cb7;
 }
