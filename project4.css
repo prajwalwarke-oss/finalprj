@@ -328,3 +328,170 @@ video {
     height: auto;
     width: 100%;
 }
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Segoe UI", sans-serif;
+}
+
+body {
+    background-color: #fff;
+}
+
+/* MAIN CONTAINER */
+.contact-section {
+    max-width: 1200px;
+    margin: 80px auto;
+    display: flex;
+    gap: 80px;
+}
+
+/* LEFT & RIGHT COLUMNS */
+.contact-info,
+.contact-form {
+    width: 50%;
+}
+
+/* SMALL GREEN TEXT */
+.small-title {
+    color: #9acd32;
+    font-style: italic;
+    font-size: 14px;
+}
+
+/* HEADINGS */
+h1 {
+    font-size: 38px;
+    margin: 10px 0 20px;
+}
+
+/* PARAGRAPH */
+.desc {
+    color: #777;
+    line-height: 1.6;
+    margin-bottom: 30px;
+}
+
+/* STORE BLOCK */
+.store {
+    margin-bottom: 30px;
+}
+
+.store h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.store p {
+    color: #666;
+    margin-bottom: 5px;
+}
+
+/* FORM */
+form input,
+form textarea {
+    width: 100%;
+    padding: 14px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    outline: none;
+}
+
+form textarea {
+    resize: none;
+    height: 120px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Segoe UI", sans-serif;
+}
+
+body {
+    background-color: #fff;
+}
+
+/* MAIN CONTAINER */
+.contact-section {
+    max-width: 1200px;
+    margin: 80px auto;
+    display: flex;
+    gap: 80px;
+}
+
+/* LEFT & RIGHT COLUMNS */
+.contact-info,
+.contact-form {
+    width: 50%;
+}
+
+/* SMALL GREEN TEXT */
+.small-title {
+    color: #9acd32;
+    font-style: italic;
+    font-size: 14px;
+}
+
+/* HEADINGS */
+h1 {
+    font-size: 38px;
+    margin: 10px 0 20px;
+}
+
+/* PARAGRAPH */
+.desc {
+    color: #777;
+    line-height: 1.6;
+    margin-bottom: 30px;
+}
+
+/* STORE BLOCK */
+.store {
+    margin-bottom: 30px;
+}
+
+.store h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.store p {
+    color: #666;
+    margin-bottom: 5px;
+}
+
+/* FORM */
+form input,
+form textarea {
+    width: 100%;
+    padding: 14px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    outline: none;
+}
+
+form textarea {
+    resize: none;
+    height: 120px;
+}
+
+/* BUTTON */
+form button {
+    background-color: #9acd32;
+    color: white;
+    border: none;
+    padding: 14px 30px;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+form button:hover {
+    background-color: #85b72c;
+}
